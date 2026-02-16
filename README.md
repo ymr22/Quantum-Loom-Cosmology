@@ -13,7 +13,7 @@ We demonstrate that Spacetime is not a continuous manifold, but a **Discrete Top
 Click on the notebooks below to view the simulation code and results:
 
 ### 1. [The Hubble Tension (Viscosity)](./01_Hubble_Tension_Viscosity.ipynb)
-**Result:** We detected a relaxation in vacuum viscosity. The "Stiff" early vacuum ($H_0 \approx 93.3$) vs. the "Loose" late vacuum ($H_0 \approx 98.9$) yields a tension of **$\Delta H_0 \approx 5.6$ km/s/Mpc**, resolving the discrepancy without modifying $\Lambda$CDM.
+**Result:** We detected a relaxation in vacuum viscosity. The "Stiff" early vacuum ($H_0 \approx 93.3$) vs. the "Loose" late vacuum ($H_0 \approx 98.9$) yields a tension of **$\Delta H_0 \approx 5.6$ km/s/Mpc**, resolving the discrepancy without modifying ΛCDM.
 
 ### 2. [Dark Energy (Hydraulic Pressure)](./02_Dark_Energy_Hydraulics.ipynb)
 **Result:** We identified that cosmic acceleration is driven by the entropic displacement of the vacuum. The measured Cosmological Coupling of **$k \approx 1.78$** confirms the Holographic Scaling Law ($k \approx 2$).
