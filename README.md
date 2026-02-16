@@ -1,6 +1,7 @@
 # The Quantum Loom: A Computational Refutation of the Big Bang Singularity
 
 **Author:** Yağmur Üstel 
+
 **Hardware:** IBM Quantum `ibm_marrakesh` (156-Qubit Heron Processor)
 
 ## 🌌 Overview
